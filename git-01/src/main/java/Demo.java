@@ -9,6 +9,11 @@ public class Demo {
         System.out.println("hello world1");
 
 
+
         int a = 0;
+
+        System.out.println("hello world2");
+        System.out.println("hotfix commit");
+
     }
 }
