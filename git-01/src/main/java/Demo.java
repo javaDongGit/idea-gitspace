@@ -8,7 +8,7 @@ public class Demo {
         System.out.println("hello world");
         System.out.println("hello world1");
 
-
+        String asdf;
 
         int a = 0;
 
@@ -16,5 +16,6 @@ public class Demo {
         System.out.println("hotfix commit");
 
         String str = "hello";
+
     }
 }
