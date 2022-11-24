@@ -15,5 +15,6 @@ public class Demo {
         System.out.println("hello world2");
         System.out.println("hotfix commit");
 
+        String str = "hello";
     }
 }
